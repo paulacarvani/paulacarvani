@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![Profile](https://user-images.githubusercontent.com/85519690/155644729-607609f3-f96d-437b-9a10-d7650669d538.png)
 
 <!--
 **paulacarvani/paulacarvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
